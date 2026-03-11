@@ -1,0 +1,7 @@
+pandas>=0.23
+numpy>=1.14
+matplotlib>=2.2
+scikit-learn>=0.19
+xgboost>=0.71
+tensorflow>=1.8
+category_encoders>=1.3
